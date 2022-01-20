@@ -486,6 +486,14 @@ video {
 	margin-bottom: 50px;
 }
 
+iframe {
+	width: 60%;
+	height: 60%;
+    display: block;
+    margin: 0 auto;
+	margin-bottom: 50px;
+}
+
 
 /* Works */
 
