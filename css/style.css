@@ -486,7 +486,7 @@ video {
 	margin-bottom: 50px;
 }
 
-iframe {
+iframe.ex3 {
 	width: 60%;
 	height: 60%;
     display: block;
